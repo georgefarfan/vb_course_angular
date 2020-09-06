@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{842174F4-8923-4460-8528-37816D827FDB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="vb_course_angular/ClientApp/src/app/fetch-data/fetch-data.component.ts">
+    <Files>
+      <File FileName="vb_course_angular/Program.cs" Line="18" Column="1" />
+      <File FileName="vb_course_angular/ClientApp/src/app/app.component.html" Line="7" Column="1" />
+      <File FileName="vb_course_angular/ClientApp/src/app/nav-menu/nav-menu.component.css" Line="1" Column="1" />
+      <File FileName="vb_course_angular/ClientApp/src/app/nav-menu/nav-menu.component.html" Line="25" Column="49" />
+      <File FileName="vb_course_angular/ClientApp/src/app/nav-menu/nav-menu.component.ts" Line="18" Column="2" />
+      <File FileName="vb_course_angular/ClientApp/src/app/home/home.component.html" Line="1" Column="1" />
+      <File FileName="vb_course_angular/ClientApp/src/app/home/home.component.ts" Line="1" Column="1" />
+      <File FileName="vb_course_angular/ClientApp/src/app/fetch-data/fetch-data.component.ts" Line="13" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="vb_course_angular" expanded="True">
+            <Node name="vb_course_angular" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="app" expanded="True">
+                    <Node name="fetch-data" expanded="True">
+                      <Node name="fetch-data.component.ts" selected="True" />
+                    </Node>
+                    <Node name="home" expanded="True" />
+                    <Node name="nav-menu" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.vb__course__angular PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
